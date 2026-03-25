@@ -1,4 +1,4 @@
-# 🦞 OpenClaw — Personal AI Assistant
+# 🦞 OpenClaw — Personal AI Assistantes
 
 <p align="center">
     <picture>
